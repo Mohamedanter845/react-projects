@@ -1,1 +1,4 @@
 Oracle_JDK-23 filter=lfs diff=lfs merge=lfs -text
+*.Oracle_JDK-23 filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
