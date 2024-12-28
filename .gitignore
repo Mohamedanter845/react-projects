@@ -27,3 +27,4 @@ dist-ssr
 .env.sentry-build-plugin
 
 .vercel
+Oracle_JDK-23/lib/modules
